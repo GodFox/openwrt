@@ -2,4 +2,6 @@ src-git packages https://git.openwrt.org/feed/packages.git^b5ed85f6e94aa08de1433
 src-git luci https://git.openwrt.org/project/luci.git^63ba3cba5b7bfb803a875d4d8f01248634687fd5
 src-git routing https://git.openwrt.org/feed/routing.git^e351d1e623e9ef2ab78f28cb1ce8d271d28c902d
 src-git telephony https://git.openwrt.org/feed/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
+src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git^825aa3a00ad839f3f2521f7e06750a271dabae17
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git^d6f428ddd647340127691f058c2d6eb4d332bbab
+src-git ddns_go https://github.com/sirpdboy/luci-app-ddns-go.git^2810038f9b98401cc6d28685a4a91a9ee197ff9e
